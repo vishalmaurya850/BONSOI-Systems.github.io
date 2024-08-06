@@ -1,6 +1,7 @@
 <head>
   <link rel="shortcut icon" sizes="114x114" href="${resource(dir: 'images', file: 'favicon.ico')}" type="image/x-icon">
 </head>
+
 # BONSOI-Systems
 Engineering Tomorrow: Crafting Digital Futures Today
 <img align="right" src="IMG/Borcelle.png" height="100" width="100">
