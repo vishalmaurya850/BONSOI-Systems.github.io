@@ -1,6 +1,6 @@
 # BONSOI-Systems
 Engineering Tomorrow: Crafting Digital Futures Today
-![BONSOI Systems Logo](<img src="IMG/Borcelle.png" height="100" width="100">)
+<img align="right" src="IMG/Borcelle.png" height="100" width="100">
 
 Welcome to the official Page of BONSOI Systems, a software development company dedicated in creating innovative and high-quality applications. Our GitHub Page serves as the central hub for information about our company and our software solutions.
 
