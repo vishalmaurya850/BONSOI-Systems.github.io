@@ -1,5 +1,5 @@
 <head>
-  <link rel="shortcut icon" sizes="114x114" href="${resource(dir: 'images', file: 'favicon.ico')}" type="image/x-icon">
+  <link rel="shortcut icon" sizes="114x114" href="${resource(dir: 'IMG', file: 'favicon.ico')}" type="image/x-icon">
 </head>
 
 # BONSOI-Systems
